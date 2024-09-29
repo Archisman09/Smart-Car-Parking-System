@@ -32,8 +32,8 @@ The Smart Car Parking System is an innovative project that leverages IoT and RFI
 
 ## File Structure
 
-- `SmartCarParking.ino`: Arduino code for the Smart Car Parking System.
-- `GoogleSheetIntegration.txt`: Instructions and information on integrating Google Sheets for data logging.
+- `parking.ino`: Arduino code for the Smart Car Parking System.
+- `Google Sheet Integration.txt`: Instructions and information on integrating Google Sheets for data logging.
 
 ## Installation
 
